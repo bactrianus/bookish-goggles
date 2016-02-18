@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aspose Android Examples</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="group_list">
+        <item>Introduction</item>
+        <item>Working with Files</item>
+        <item>Working with Worksheets</item>
+        <item>Working with Rows and Columns</item>
+        <item>Working with Data</item>
+        <item>Working with Data Formatting</item>
+        <item>Creating Charts</item>
+        <item>Working with Other Drawing Objects</item>
+        <item>Advanced Topics</item>
+        <item>Working with Tables</item>
+        <item>Working with Formulas</item>
+        <item>Working with CellsHelper Methods</item>
+    </string-array>
+
+    <string-array name="child_introduction">
+        <item>Aspose.Cells Object Model</item>
+        <item>Your First Application using Aspose.Cells for Android - Hello World </item>
+        <item>Evaluate Aspose.Cells for Android </item>
+    </string-array>
+
+    <string-array name="child_working_with_files">
+        <item>Opening Files</item>
+        <item>Saving Files</item>
+        <item>Save Entire Workbook into Text or CSV Format</item>
+        <item>Managing Document Properties</item>
+        <item>Encrypting Files</item>
+        <item>Converting to MHTML Files</item>
+        <item>Converting Excel to PDF Files</item>
+        <item>Converting Chart to Image</item>
+        <item>Converting Worksheet to Image</item>
+        <item>Converting Worksheet to SVG</item>
+        <item>Converting To and From MHTML</item>
+        <item>Converting Excel Files to HTML</item>
+        <item>Converting Excel Files to XPS</item>
+    </string-array>
+
+    <string-array name="child_working_with_worksheets">
+        <item>Hide or Show a Worksheet</item>
+    </string-array>
+
+    <string-array name="child_Working_with_rows_and_columns">
+        <item>Inserting Deleting Rows and Columns</item>
+    </string-array>
+
+    <string-array name="child_working_with_data">
+        <item>Adding Data to Cells</item>
+    </string-array>
+
+    <string-array name="child_working_with_data_formatting">
+        <item>Formatting Data in Cells</item>
+    </string-array>
+
+
+    <string-array name="child_creating_charts">
+        <item>How to Create a Chart</item>
+    </string-array>
+
+    <string-array name="child_working_with_drawing_objects">
+        <item>Adding Pictures</item>
+    </string-array>
+
+    <string-array name="child_advanced_topics">
+        <item>Smart Markers</item>
+    </string-array>
+
+    <string-array name="child_working_with_tables">
+        <item>Convert an Excel Table to a Range of Data</item>
+    </string-array>
+    <string-array name="child_working_with_formulas">
+        <item>Calculating Formulas</item>
+    </string-array>
+    <string-array name="child_working_with_cellshelper_methods">
+        <item>Detecting File Format</item>
+    </string-array>
+
+    <!--
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item>
+    <item></item> -->
+
+</resources>
